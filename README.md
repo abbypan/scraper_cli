@@ -3,7 +3,7 @@ use perl Web::Scraper to extract webpage data on simple command line
 
 简单命令行调用perl的Web::Scraper取网页数据
 
-## example 例子
+## example
 
 read from : url , html file, stdin url string, stdin html content
 
@@ -27,7 +27,7 @@ scraper_cli.pl -i http://www.google.com -p "//a" -r "@href"
 scraper_cli.pl -i http://www.google.com -p "//a" -r " id=> '@href', text => 'TEXT' "
 ```
 
-## ARGS 
+## args
 
     -i url or input html file; otherwise, use stdin
     -p xpath string
