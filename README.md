@@ -3,7 +3,7 @@ use perl [Web::Scraper](https://metacpan.org/pod/Web::Scraper) to extract webpag
 
 简单命令行调用perl的 [Web::Scraper](https://metacpan.org/pod/Web::Scraper) 取网页数据
 
-like python [scrapy](http://scrapy.org/)
+like python [scrape](https://github.com/jeroenjanssens/data-science-at-the-command-line/blob/master/tools/scrape)
 
 ## example
 
