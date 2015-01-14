@@ -1,7 +1,7 @@
 # scraper_cli
-use perl Web::Scraper to extract webpage data on simple command line
+use perl [Web::Scraper](https://metacpan.org/pod/Web::Scraper) to extract webpage data on simple command line
 
-简单命令行调用perl的Web::Scraper取网页数据
+简单命令行调用perl的 [Web::Scraper](https://metacpan.org/pod/Web::Scraper) 取网页数据
 
 ## example
 
